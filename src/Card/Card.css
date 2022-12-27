@@ -1,0 +1,14 @@
+.badge{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: red;
+    color: #fff;
+    position: absolute;
+    margin-top: -8px;
+    margin-left: -16px;
+}
+
+.cardLogo {
+    margin-right: 12px;
+}
